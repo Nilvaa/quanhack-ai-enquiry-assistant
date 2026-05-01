@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Python Full Stack",
+    "duration": "3 Months",
+    "fees": "₹15000",
+    "placement": "Yes"
+  },
+  {
+    "name": "Data Science",
+    "duration": "4 Months",
+    "fees": "₹25000",
+    "placement": "Yes"
+  },
+  {
+    "name": "Flutter Development",
+    "duration": "3 Months",
+    "fees": "₹18000",
+    "placement": "Yes"
+  }
+]
