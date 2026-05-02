@@ -2,19 +2,46 @@
   {
     "name": "Python Full Stack",
     "duration": "3 Months",
-    "fees": "₹15000",
-    "placement": "Yes"
+    "fees": "₹15,000",
+    "placement": "Yes",
+    "next_batch": "June 2, 2026",
+    "eligibility": "10+2 and above",
+    "highlights": ["Django & Flask", "REST APIs", "PostgreSQL", "Deployment on AWS"]
   },
   {
-    "name": "Data Science",
+    "name": "Data Science & ML",
     "duration": "4 Months",
-    "fees": "₹25000",
-    "placement": "Yes"
+    "fees": "₹25,000",
+    "placement": "Yes",
+    "next_batch": "June 10, 2026",
+    "eligibility": "Any graduate",
+    "highlights": ["Python, Pandas, NumPy", "Scikit-learn & TensorFlow", "Real-world projects", "Resume & LinkedIn support"]
   },
   {
     "name": "Flutter Development",
     "duration": "3 Months",
-    "fees": "₹18000",
-    "placement": "Yes"
+    "fees": "₹18,000",
+    "placement": "Yes",
+    "next_batch": "June 5, 2026",
+    "eligibility": "10+2 and above",
+    "highlights": ["Dart language", "Android & iOS apps", "Firebase integration", "Play Store deployment"]
+  },
+  {
+    "name": "AI & Automation",
+    "duration": "5 Months",
+    "fees": "₹35,000",
+    "placement": "Yes",
+    "next_batch": "June 16, 2026",
+    "eligibility": "Any graduate with basic Python",
+    "highlights": ["LLMs & Prompt Engineering", "LangChain & RAG", "n8n Automation", "Industry mentors"]
+  },
+  {
+    "name": "Cloud Computing (AWS)",
+    "duration": "2 Months",
+    "fees": "₹12,000",
+    "placement": "Yes",
+    "next_batch": "June 3, 2026",
+    "eligibility": "Any graduate",
+    "highlights": ["AWS Core Services", "EC2, S3, Lambda", "DevOps basics", "AWS Certified prep"]
   }
 ]
